@@ -17,6 +17,6 @@ We specialize in:
 - Application Architecture 
 - Infrastructure Cost management
 
-### Get to know us
+### Get to know us - (.___.)
 
 We don't charge our services until we are confident we can help. Feel free to contact us contact@moby-it.com
