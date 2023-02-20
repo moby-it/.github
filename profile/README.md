@@ -14,7 +14,7 @@ We live in a world that is heavily driven by trends. Moby IT aims to clear thing
 We specialize in:
 
 - Cross Platform UI Design and Development
-- Application Architecture 
+- Software Architecture 
 - Infrastructure Cost management
 
 ### Get to know us - (.___.)
