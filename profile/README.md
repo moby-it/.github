@@ -1,6 +1,11 @@
 <a href="https://www.linkedin.com/company/moby-it" target="_blank">
   <img align="left" alt="George Spanos' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://moby-it.com" target="_blank">
+  <img align="left" alt="Moby IT website" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/web-1175-458408.png" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=moby-it)
 
 ### Application Development
