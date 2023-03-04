@@ -10,7 +10,7 @@
 
 ### Application Development
 
-Software is generally complex. If you can solve your issues and **achieve your goals with no software**, we will encourage you to do so. If this is not possible, we would be glad to help. 
+Software is inherently complex. If you can solve your problems and **achieve your goals with no software**, we will encourage you to do so. If this is not possible, we would be glad to help. 
 
 We are a company that creates software tailored specificaly for each need. **We do not have a one-solution-fits-all mentality**. We are driven by the specific problem we face each time, and try to create a specific concere solution. 
 
